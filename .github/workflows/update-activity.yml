@@ -1,0 +1,36 @@
+name: Update Recent Repositories
+
+on:
+  schedule:
+    - cron: '0 */12 * * *' # Every 12 hours
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Update README with recent activity
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: '⚡ Update recent activity'
+          MAX_LINES: 5
+          
+  update-repos:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Get recent repositories
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "RECENT_ACTIVITY"
+          feed_list: "https://api.github.com/users/hanserlodev/repos?sort=created&per_page=5"
+          max_post_count: 5
+          template: "- 🔹 [$title]($url) - $description"
