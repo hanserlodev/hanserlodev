@@ -78,10 +78,10 @@ Ahora mismo ando metido en **NinaCal**, un calendario de incendios con datos sat
 
 ---
 
-## 🤝 Comunidad
+## 🤝 Comunidad y logros
 
-- [ACM Chapter Huancayo](https://github.com/ACM-Chapter-Huancayo) — miembro de la comunidad.
-- [KanaDojo](https://github.com/lingdojo/kana-dojo) — plataforma open source para aprender japonés; contribuyo y mantengo un [fork](https://github.com/hanserlodev/kanadojo).
+- [ACM Chapter Huancayo](https://github.com/ACM-Chapter-Huancayo) — **presidente** de la organización. Organizamos eventos como **Festihack 2026**. 🚀
+- [KanaDojo](https://github.com/lingdojo/kana-dojo) — plataforma open source para aprender japonés. Contribuí y mantuve un [fork](https://github.com/hanserlodev/kanadojo); fue una gran experiencia.
 
 ---
 
@@ -102,8 +102,9 @@ Ahora mismo ando metido en **NinaCal**, un calendario de incendios con datos sat
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hans-anderson-ordo%C3%B1ez-molinero-699a19381/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanserlodev/)
 [![X / Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/hanserlodev)
+![Discord hanserlodev](https://img.shields.io/badge/Discord-hanserlodev-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hanserlodev)
 [![Portafolio](https://img.shields.io/badge/Portafolio-vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portafolio-mu-teal.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hanserlodev@gmail.com)
