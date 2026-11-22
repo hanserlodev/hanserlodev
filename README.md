@@ -12,7 +12,7 @@
 
 ## 🧑‍🎓 Sobre mí
 
-Estudiante de **Ingeniería de Sistemas y Ciencias de la Computación** en la [Universidad Continental](https://www.uc.edu.pe/) y desarrollador full-stack junior que construye en público. Aprendo a fuerza de hacer: escribo código con TypeScript y React, y si el problema se pone interesante, bajo al nivel de sistema con Rust y C++ (y a veces rompo algo en el proceso 🫠).
+Estudiante de **Ingeniería de Sistemas y Ciencias de la Computación** en la [Universidad Continental](https://ucontinental.edu.pe/) y desarrollador full-stack junior que construye en público. Aprendo a fuerza de hacer: escribo código con TypeScript y React, y si el problema se pone interesante, bajo al nivel de sistema con Rust y C++ (y a veces rompo algo en el proceso 🫠).
 
 Ahora mismo estoy en modo exploración: **aprendo jugando y saltando entre tecnologías**. Hoy puede ser Rust, mañana quien sabe; NinaCal y Voronia son solo los experimentos más recientes. Si ves un repo raro por ahí, probablemente sea cosa mía.
 
