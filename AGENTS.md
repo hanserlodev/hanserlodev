@@ -19,6 +19,6 @@ Gotcha: both content-injection jobs write into marker comments located in the co
 
 ## Content notes
 
-`README.md` is written in Spanish, tone: "build in public" + casual/humorous. It presents Hans as a full-stack junior dev / CS student and **president of ACM Chapter Huancayo** (they run Festihack 2026). KanaDojo contributions are in the past — don't describe them as current. Its featured-projects table and stack are grounded in the actual repos, not the old inflated generic stack — verify against `gh api user/repos` before adding new claims.
+`README.md` is written in Spanish, tone: "build in public" + casual/humorous. It presents Hans as a full-stack junior dev / CS student who "learns by playing and exploring multiple technologies"; outside code: music, Hogwarts Legacy and GTA Vice City. He is **president of ACM Chapter Huancayo** (organizer/admin of Festihack 2026 and future editions), participated twice in NASA Space Apps without winning, and is more of an organizer than a competitor. KanaDojo contributions are in the past — don't describe them as current. Its featured-projects table and stack are grounded in the actual repos, not the old inflated generic stack — verify against `gh api user/repos` before adding new claims.
 
 Contact details were corrected by the user and are authoritative: LinkedIn `https://www.linkedin.com/in/hanserlodev/`, X `hanserlodev`, Discord handle `hanserlodev`, portfolio `https://portafolio-mu-teal.vercel.app`. The ones in `hanserlodev/portafolio` (`src/data/personal.ts`) are stale — do not re-derive from there.

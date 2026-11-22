@@ -14,7 +14,9 @@
 
 Estudiante de **Ingeniería de Sistemas y Ciencias de la Computación** en la [Universidad Continental](https://www.uc.edu.pe/) y desarrollador full-stack junior que construye en público. Aprendo a fuerza de hacer: escribo código con TypeScript y React, y si el problema se pone interesante, bajo al nivel de sistema con Rust y C++ (y a veces rompo algo en el proceso 🫠).
 
-Ahora mismo ando metido en **NinaCal**, un calendario de incendios con datos satelitales de la NASA para Space Apps 2026, y en **Voronia**, un motor que renderiza mapas de fantasía en GPU. Si ves un repo raro por ahí, probablemente sea un experimento mío.
+Ahora mismo estoy en modo exploración: **aprendo jugando y saltando entre tecnologías**. Hoy puede ser Rust, mañana quien sabe; NinaCal y Voronia son solo los experimentos más recientes. Si ves un repo raro por ahí, probablemente sea cosa mía.
+
+**Fuera del código:** música y videojuegos — un rato de *Hogwarts Legacy* y otro de *GTA Vice City* nunca fallan. 🎧🎮
 
 > _"Si puedes imaginarlo, podemos programarlo. Si no, también, pero con más logs."_
 
@@ -80,7 +82,8 @@ Ahora mismo ando metido en **NinaCal**, un calendario de incendios con datos sat
 
 ## 🤝 Comunidad y logros
 
-- [ACM Chapter Huancayo](https://github.com/ACM-Chapter-Huancayo) — **presidente** de la organización. Organizamos eventos como **Festihack 2026**. 🚀
+- [ACM Chapter Huancayo](https://github.com/ACM-Chapter-Huancayo) — **presidente** de la organización. Organizo y administro la comunidad: **Festihack 2026** ya pasó y seguimos con más eventos para los próximos años. 🚀
+- **NASA Space Apps** — participé **2 veces** (aún sin ganar, pero ahí estamos 😄).
 - [KanaDojo](https://github.com/lingdojo/kana-dojo) — plataforma open source para aprender japonés. Contribuí y mantuve un [fork](https://github.com/hanserlodev/kanadojo); fue una gran experiencia.
 
 ---
